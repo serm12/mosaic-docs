@@ -27,7 +27,7 @@ Add a **Mobile image** when your desktop image crops badly on phones. Each devic
 
 ## Countdown
 
-Set the end date and timezone, the text, a link and a color scheme. **When countdown ends** chooses what happens at the end, and **Ended message** sets the text shown afterward.
+Set the end date and timezone, the text, a link and a color scheme. Enter the end date in ISO 8601 format with a timezone offset, such as `2026-12-01T23:59:59+08:00`. **When countdown ends** shows an ended message or hides the countdown, and **Ended message** sets the text shown afterward.
 
 ## Custom section
 
